@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".backend_RAG_logo.png" alt="Mental::Bridge Logo" width="300"/>
+  <img src="backend_RAG_logo.png" alt="Mental::Bridge Logo" width="300"/>
   <h1>Mental:Bridge Mental Health Support Platform</h1>
   <p>A modern web application designed to provide mental health support, resources, and AI-assisted guidance.</p>
 </div>
@@ -13,7 +13,6 @@ We're working hard to bring this mental health support platform to completion. P
 A powerful Python backend service powering the ConnectX mental health support platform. This backend provides AI-powered conversations, resource recommendations, and clinical information through a RESTful API.
 
 ## Features
-
 ### AI-Powered Conversations
 - Natural language processing for mental health inquiries
 - Empathetic responses with supportive guidance
@@ -223,7 +222,8 @@ backend/
    ```
 
 ## License
-All Rights Reserved (aka not open source)
+All Rights Reserved (aka not open source). 
+We are trying to make it open source soon. 
 
 ## Acknowledgements
 - OpenAI for providing the language model capabilities
