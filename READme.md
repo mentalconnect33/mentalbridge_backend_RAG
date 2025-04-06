@@ -1,4 +1,3 @@
-```markdown
 # Mental Health Support AI Backend
 
 A powerful Python backend service powering the ConnectX mental health support platform. This backend provides AI-powered conversations, resource recommendations, and clinical information through a RESTful API.
@@ -220,4 +219,3 @@ All Rights Reserved (aka not open source)
 - OpenAI for providing the language model capabilities
 - FastAPI team for the excellent web framework
 - All contributors to the open-source libraries used in this project
-```
